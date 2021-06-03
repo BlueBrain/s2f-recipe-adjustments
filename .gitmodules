@@ -1,0 +1,3 @@
+[submodule "connectome-validation"]
+	path = connectome-validation
+	url = git@bbpgitlab.epfl.ch:conn/structural/validation/connectome-validation.git

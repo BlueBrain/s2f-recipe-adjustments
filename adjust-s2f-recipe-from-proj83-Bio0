@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python connectome-validation/bin/adjust-s2f-recipe.py -i $1 -b proj83/Bio_0/bouton_density_central_column.csv -s proj83/Bio_0/syns_con_central_column.csv
+
